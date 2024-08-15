@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos/syles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap">
+    <title>Encriptador challenge</title>
+</head>
+<body>
+    <header>
+
+            <Img class="Logo" src="imagenes/Logo.png" alt="Logo alura">
+
+    </header>
+    <main>
+        <section class="section1">
+            <div class="section1__cajatexto">
+                <textarea placeholder="Ingrese el texto aquí" class="section1__cajatexto_texto"></textarea>
+
+            </div>
+
+            <div class="section1__alerta">
+                <img src="imagenes/bi_exclamation-circle-fill.png" alt="alerta">
+                <p>Solo letras minúsculas y sin acentos</p>
+            </div>
+
+            <div class="section1__contenedor__botones">
+                <input type="button" class="boton__encriptador" value="Encriptar">
+                <input type="button" class="boton__desencriptador" value="Desencriptar">
+
+            </div>
+        </section>
+
+        <section class="section2">
+            <div class="section2__doll">
+                <img src="imagenes/Muñeco.png" alt="Imagen de un niño buscando un diamante">
+            </div>
+            <div class="section2__texto">
+                <h3>
+                    Ningun mensaje fue <br> encontrado
+                </h3>
+
+                <p>
+                    Ingresa el texto que desees encriptar o <br> desencriptar.
+                </p>
+            </div>
+            
+            <div class="section2__copiar">
+                <input type="button" class="boton__copiar" value="copiar">
+
+            </div>
+
+            <div class="section2__resultado">
+                <p class="section2__resultado__texto"></p>
+            </div>
+        </section>
+
+    </main>
+    <script src="javaScript/script.js"> </script>
+</body>
+</html>
