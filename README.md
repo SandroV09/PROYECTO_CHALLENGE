@@ -1,5 +1,6 @@
-![Muñeco](https://github.com/user-attachments/assets/80e1c5fc-c54f-4e8d-a389-f22c942b359f)
 Bienvenido a nuestra **Aplicación de Encriptación y Desencriptación de Textos**, una herramienta divertida y sencilla para intercambiar mensajes secretos. 🌟
+
+![Muñeco](https://github.com/user-attachments/assets/80e1c5fc-c54f-4e8d-a389-f22c942b359f)
 
 ## ✨ Funcionalidades
 
