@@ -1,4 +1,4 @@
-Bienvenido a nuestra **Aplicación de Encriptación y Desencriptación de Textos**, una herramienta divertida y sencilla para intercambiar mensajes secretos. 🌟
+Bienvenido a la **Aplicación de Encriptación y Desencriptación de Textos**, una herramienta divertida y sencilla para intercambiar mensajes secretos. 🌟
 <p align="center">
   <img src="https://github.com/user-attachments/assets/80e1c5fc-c54f-4e8d-a389-f22c942b359f" alt="Muñeco" width="400px">
 </p>
